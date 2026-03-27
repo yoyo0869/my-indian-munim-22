@@ -7,6 +7,7 @@ import WorkflowSection from "@/components/WorkflowSection";
 import SoftwareMarquee from "@/components/SoftwareMarquee";
 import TeamSection from "@/components/TeamSection";
 import FAQSection from "@/components/FAQSection";
+import ContactSection from "@/components/ContactSection";
 import FooterSection from "@/components/FooterSection";
 
 const Index = () => {
